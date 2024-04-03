@@ -1,0 +1,21 @@
+i) cal march 2024
+
+ii) ls -lh
+    ls -sh
+
+iii)  ls -1p | grep -v / | wc -l && echo files
+
+iv) cat >file.txt
+    unix or linux os
+    is unix good os
+    is linux good os
+
+    ctrl +c
+    cut -c 4 file.txt
+v) vim file.txt
+   
+   in esc 
+   :0 enter 
+   2yy 
+   :5 enter 
+   p

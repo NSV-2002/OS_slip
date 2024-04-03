@@ -1,0 +1,27 @@
+i)create a file with 8 lines of text
+
+~cat a.txt
+      
+~tail -n 5 a.txt
+
+ii) ~rm a*.txt
+
+iii)  not found
+
+iv) ~cat> file.txt
+    unix of linux os
+    is unix good os 
+    is linux good os
+    ctrl+c
+
+    ~cat file.txt
+    <file display >
+    cut -c 4 file.txt
+
+v)
+in vi editor 
+:0
+2yy
+:5
+p
+
