@@ -1,0 +1,9 @@
+i) ls -l
+
+ii)ls -l>>a.txt
+
+iii)wc -l a.txt
+
+iv)chmod [g][+][r,w,x] a.txt
+
+v)esc r enter

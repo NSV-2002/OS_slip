@@ -1,0 +1,3 @@
+i)mv *.sh /
+
+ii)sort a.txt uniq -d

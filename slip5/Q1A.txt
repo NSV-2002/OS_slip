@@ -1,0 +1,15 @@
+i) ~cat>a.txt
+   unix or linux os
+   is unix good os
+   is linux good os
+   unix or linux os
+   is unix good os
+   is linux good os
+
+ii) head -n 5 a.txt
+
+iii)grep "pattern" a.txt
+
+iv) wc -wc a.txt
+
+v)in esc press 3x
