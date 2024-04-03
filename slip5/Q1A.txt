@@ -10,6 +10,6 @@ ii) head -n 5 a.txt
 
 iii)grep "pattern" a.txt
 
-iv) wc -wc a.txt
+iv) wc -w a.txt
 
 v)in esc press 3x

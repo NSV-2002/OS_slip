@@ -1,0 +1,18 @@
+i) cal april 2020
+
+ii) cat> one.txt
+id
+name
+designation
+address
+ctrl + C
+
+iii)echo "Hello, this is a sample text file.
+It contains multiple lines and words.
+Let's see how many bytes, words, and lines it has." > example.txt
+
+~wc example.txt
+
+iv)tr '\n' '\t' < input_file.txt
+
+v):n d

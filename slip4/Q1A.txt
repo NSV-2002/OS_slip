@@ -4,6 +4,8 @@ ii)ls -l>>a.txt
 
 iii)wc -l a.txt
 
-iv)chmod [g][+][r,w,x] a.txt
+iv)chmod g+rw a.txt
+   chmod u+rwx a.txt
+   chmod o+r a.txt
 
 v)esc r enter
