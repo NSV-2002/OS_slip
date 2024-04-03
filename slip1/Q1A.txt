@@ -1,0 +1,22 @@
+i) mkdir FYBCA
+   cd FYBCA
+   mkdir OS RDBMS CO
+   ls
+   ~ CO OS RDBMS
+
+ii) ~echo "Rollno name class percentage" >a.txt
+    ~ cat a.txt
+    ~ Rollno name class percentage
+ 
+iii) echo "1 nilesh X 95%">>a.txt
+     echo "2 faizal A 94%">>a.txt 
+     echo "3 atharv B 96%">>a.txt
+     cat a.txt
+     sort -k4 -n a.txt
+iv) echo students are : &&grep -c "A" a.txt
+    students  are :
+    3
+v)
+   ~ esc 
+   ~1,n d
+    
